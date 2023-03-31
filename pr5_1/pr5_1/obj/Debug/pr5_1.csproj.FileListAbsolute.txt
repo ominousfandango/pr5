@@ -1,0 +1,8 @@
+D:\учеба\лялялл\03\Новая папка (2)\pr3\pr5_1\pr5_1\bin\Debug\pr5_1.exe.config
+D:\учеба\лялялл\03\Новая папка (2)\pr3\pr5_1\pr5_1\bin\Debug\pr5_1.exe
+D:\учеба\лялялл\03\Новая папка (2)\pr3\pr5_1\pr5_1\bin\Debug\pr5_1.pdb
+D:\учеба\лялялл\03\Новая папка (2)\pr3\pr5_1\pr5_1\obj\Debug\pr5_1.csproj.AssemblyReference.cache
+D:\учеба\лялялл\03\Новая папка (2)\pr3\pr5_1\pr5_1\obj\Debug\pr5_1.csproj.SuggestedBindingRedirects.cache
+D:\учеба\лялялл\03\Новая папка (2)\pr3\pr5_1\pr5_1\obj\Debug\pr5_1.csproj.CoreCompileInputs.cache
+D:\учеба\лялялл\03\Новая папка (2)\pr3\pr5_1\pr5_1\obj\Debug\pr5_1.exe
+D:\учеба\лялялл\03\Новая папка (2)\pr3\pr5_1\pr5_1\obj\Debug\pr5_1.pdb
